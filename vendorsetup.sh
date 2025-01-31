@@ -7,4 +7,4 @@
 
 # add_lunch_combo twrp_Infinix-X6532-user
 # add_lunch_combo twrp_Infinix-X6532-userdebug
-COMMON_LUNCH_CHOICES twrp_Infinix_X6532-eng
+add_lunch_combo twrp_Infinix_X6532-eng
