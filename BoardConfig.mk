@@ -110,7 +110,7 @@ TW_INCLUDE_REPACKTOOLS := true
 
 
 # MizProject Modifications
-TW_DEVICE_VERSION := Infinix-X65-1u-MizProject
+TW_DEVICE_VERSION := Infinix-Smart-9-1u-MizProject
 TW_INCLUDE_CRYPTO := true # check if it works
 TW_INCLUDE_CRYPTO_FBE := true
 TW_EXTRA_LANGUAGES := false # shrink twrp size a bit
