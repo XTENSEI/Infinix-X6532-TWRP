@@ -14,5 +14,5 @@ PRODUCT_MAKEFILES := \
 #     twrp_Infinix-X6532-eng
 
 COMMON_LUNCH_CHOICES := \
-    twrp_Infinix-X6532-eng
+    twrp_Infinix_X6532-eng
 
