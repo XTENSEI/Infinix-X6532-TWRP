@@ -9,9 +9,9 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_Infinix_X6532.mk
 
 # COMMON_LUNCH_CHOICES := \
-#     twrp_Infinix-X6532-user \
-#     twrp_Infinix-X6532-userdebug \
-#     twrp_Infinix-X6532-eng
+#     twrp_Infinix_X6532-user \
+#     twrp_Infinix_X6532-userdebug \
+#     twrp_Infinix_X6532-eng
 
 COMMON_LUNCH_CHOICES := \
     twrp_Infinix_X6532-eng
